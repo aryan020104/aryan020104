@@ -40,7 +40,7 @@ I love building educational tools that make learning fun and interactive!
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aryan020104&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,python,java,c&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,express,django,bootstrap&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox) -->
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,github&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan020104&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan020104&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="top languages" />
