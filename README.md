@@ -107,19 +107,27 @@ Passionate Computer Science student focused on building practical applications a
 
 <div align="center">
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryan020104&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
 # 🤝 Connect With Me
 
 📧 Email: aryansorathiya0201@gmail.com
 
-💼 LinkedIn: ADD_YOUR_LINKEDIN_HERE
+💼 LinkedIn: www.linkedin.com/in/aryan-sorathiya-100b3b23a
 
 🌐 GitHub: https://github.com/aryan020104
 
