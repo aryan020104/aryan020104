@@ -105,23 +105,15 @@ Passionate Computer Science student focused on building practical applications a
 
 # 📈 GitHub Stats
 
-<div align="center">
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=tokyonight" />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
+# 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aryan020104&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
 
 # 🤝 Connect With Me
 
