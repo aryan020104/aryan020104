@@ -103,17 +103,6 @@ Passionate Computer Science student focused on building practical applications a
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=github_dark)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryan020104&theme=github-dark-blue)
 
 # 🤝 Connect With Me
 
