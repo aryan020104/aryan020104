@@ -1,121 +1,285 @@
-# Hi there 👋, I'm Aryan
-
 <div align="center">
 
-💻 Software Design Student | Java Developer | DevSecOps Learner | UI/UX Enthusiast
+# Hi there 👋, I'm Aryan Sorathiya
+
+### 💻 Software Engineering Student | Java & Spring Boot Developer | DevSecOps Enthusiast
+
+🎓 Software Design International @ Technische Hochschule Aschaffenburg (Germany)
+
+🚀 Currently looking for a **6-month Mandatory Internship (Pflichtpraktikum)** starting **August 2026**
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-Passionate Computer Science student focused on building practical applications and strengthening core software engineering fundamentals through hands-on projects.
+I am a Software Engineering student passionate about building practical software solutions that solve real-world problems.
 
-- 🎓 Studying Software Design at TH Aschaffenburg
-- 💡 Interested in Java Development, DevSecOps, Networking & UI/UX
-- 🌱 Currently learning Data Structures & Algorithms with Java
-- 🔥 Exploring CI/CD pipelines, Docker, and security concepts
-- 🇩🇪 German B2 | 🇬🇧 English B2/C1
+I enjoy developing backend applications using Java and Spring Boot while continuously expanding my knowledge in secure software development, DevOps, Linux, and cloud technologies.
+
+I believe the best way to learn is by building real projects and continuously improving them.
+
+### 🎯 Interested In
+
+- Backend Development
+- Java & Spring Boot
+- DevSecOps
+- Secure Software Engineering
+- Linux & System Administration
+- Software Architecture
+- REST APIs
+- UI/UX Design
+- Industry 4.0 & Manufacturing IT
 
 ---
 
-# 🛠️ Tech Stack
+# 🎓 Education
 
-## 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Technische Hochschule Aschaffenburg**
+
+Software Design International (B.Sc.)
+
+Germany
 
 ---
 
-## ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+- Java
+- SQL
+- HTML
+- CSS
+- C
+- C++
+
+---
+
+## 🚀 Backend Development
+
+- Spring Boot
+- REST APIs
+- Spring Data JPA
+- Maven
+
+---
+
+## 🗄 Database
+
+- MySQL
+
+---
+
+## ⚙ DevOps & Security
+
+- Git
+- GitHub
+- GitLab
+- GitLab CI/CD
+- Docker
+- OWASP Dependency Check
+- Trivy
+
+---
+
+## 💻 Operating Systems & Tools
+
+- Linux
+- Windows
+- IntelliJ IDEA
+- VS Code
+- JavaFX
+- Figma
+- Jira
+- Godot Engine
 
 ---
 
 # 🚀 Featured Projects
 
+## 🎯 InternFlow
+
+A Spring Boot backend for an internship management platform.
+
+**Features**
+
+- REST API Development
+- JWT Authentication
+- MySQL Database
+- Spring Boot
+- Agile Development
+- Backend Architecture
+
+---
+
 ## 🔐 OWASP Juice Shop DevSecOps
-- Implemented CI/CD pipeline for OWASP Juice Shop
-- Worked with Docker and GitLab CI/CD
-- Explored OWASP Top 10 vulnerabilities and secure deployment concepts
 
----
+Implemented a complete DevSecOps pipeline using GitLab CI/CD.
 
-## 🚁 DroneNetOptimizer
-- Java-based project focused on drone network optimization
-- Worked on routing, communication, and connectivity concepts
+**Highlights**
 
----
-
-## 📦 DroneDeliveryNetwork
-- Developed a drone-based delivery network system
-- Focused on coordination and communication between network nodes
-
----
-
-## 📋 Todo List CI/CD Project
-- Built and deployed Todo List application with CI/CD workflow
-- Explored automated build and deployment processes
+- Docker
+- GitLab CI/CD
+- Dependency Scanning
+- Container Security
+- OWASP Top 10
+- Automated Security Testing
 
 ---
 
 ## 📊 Vulnerability Monitoring Dashboard
-- Designed a vulnerability monitoring dashboard using Figma
-- Focused on UI/UX, HCI principles, and security visualization
+
+Developed a dashboard for monitoring vulnerability scan results.
+
+**Technologies**
+
+- FastAPI
+- HTML
+- CSS
+- JavaScript
+- Docker
+- GitLab CI/CD
+
+---
+
+## 🚁 DroneNetOptimizer
+
+Java-based application for optimizing drone network routing.
+
+**Concepts**
+
+- Graph Algorithms
+- Routing
+- Data Structures
+- Network Optimization
 
 ---
 
 ## 💰 Budgetting App
-- JavaFX-based personal finance management application
-- Implemented budgeting and expense tracking features
+
+Desktop application developed using JavaFX.
+
+**Features**
+
+- Expense Tracking
+- Budget Management
+- JavaFX UI
+- MVC Design
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Responsive personal portfolio inspired by modern Apple design.
+
+**Technologies**
+
+- HTML
+- CSS
+- Responsive Design
 
 ---
 
 ## 🎮 Flappy-Learn
-- Educational game developed using Godot Engine
-- Focused on math and language learning for children
+
+Educational game built using Godot Engine.
+
+**Focus**
+
+- Mathematics Learning
+- Language Learning
+- Interactive Gameplay
 
 ---
 
-## 🌐 iPad Pro Inspired Website
-- Responsive frontend landing page inspired by modern Apple-style UI
-- Built using HTML & CSS
+# 📚 Relevant Coursework
 
----
-
-# 📚 Currently Working On
-
+- Software Architecture & Design Patterns
 - Data Structures & Algorithms
-- Java Development
-- DevSecOps & Security
-- UI/UX Design
-- CI/CD Automation
+- Operating Systems & Networks
+- Human Computer Interaction
+- Agile Development Methodologies
+- IT Security
+- Collaboration, Quality & Testing
+- Data Science Foundations
+- Databases
 
 ---
 
+# 🌱 Currently Learning
 
-# 🤝 Connect With Me
+- Advanced Spring Boot
+- Data Structures & Algorithms
+- DevSecOps
+- Docker
+- Linux Administration
+- CI/CD Automation
+- System Design
 
-📧 Email: aryansorathiya0201@gmail.com
+---
 
-💼 LinkedIn: www.linkedin.com/in/aryan-sorathiya-100b3b23a
+# 💼 Soft Skills
 
-🌐 GitHub: https://github.com/aryan020104
+- Problem Solving
+- Analytical Thinking
+- Team Collaboration
+- Agile Development
+- Communication
+- Continuous Learning
+- Time Management
+
+---
+
+# 🌍 Languages
+
+🇩🇪 German — B2
+
+🇬🇧 English — C1
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan020104&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan020104&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=aryan020104&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**aryansorathiya0201@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/aryan-sorathiya-100b3b23a
+
+🌐 GitHub
+
+https://github.com/aryan020104
 
 ---
 
 <div align="center">
 
-⭐ Always learning, building, and improving through practical projects.
+### ⭐ Building secure, scalable, and practical software one project at a time.
 
 </div>
