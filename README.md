@@ -6,8 +6,6 @@
 
 🎓 Software Design International @ Technische Hochschule Aschaffenburg (Germany)
 
-🚀 Currently looking for a **6-month Mandatory Internship (Pflichtpraktikum)** starting **August 2026**
-
 </div>
 
 ---
